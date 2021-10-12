@@ -65,13 +65,13 @@ const CONFIG = {
     {
       id: '5',
       name: 'Manga',
-      icon: 'book_open',
+      icon: 'read',
       link: 'https://mangalivre.net',
     },
     {
       id: '6',
       name: 'Mercado Livre',
-      icon: 'shopping-bag',
+      icon: 'ecommerce',
       link: 'https://mercadolivre.com/',
     },
   ],
@@ -96,7 +96,7 @@ const CONFIG = {
         link: 'https://www.youtube.com/watch?v=q-GMkHwaKuQ&list=PLSNh_SUIqq68CHJSHqEngCJUmqy4Im1OR&index=1&',
       },
       {
-        name: 'Dancing With The Dead 0_0',
+        name: 'Powerwolf',
         link: 'https://open.spotify.com/track/11DjaJRDstJpTC0VfuFDlz?si=ebf5d46b1d4b4bcd',
       },
       {
