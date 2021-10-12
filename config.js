@@ -40,21 +40,21 @@ const CONFIG = {
   cards: [
     {
       id: '1',
-      name: 'Github',
-      icon: 'github',
-      link: 'https://github.com/',
+      name: 'Youtube',
+      icon: 'youtube',
+      link: 'https://youtube.com/',
     },
     {
       id: '2',
       name: 'Mail',
       icon: 'mail',
-      link: 'https://mail.protonmail.com/',
+      link: 'https://google.mail.com/',
     },
     {
       id: '3',
-      name: 'Todoist',
-      icon: 'trello',
-      link: 'https://calendar.google.com/calendar/r',
+      name: 'Animes',
+      icon: 'play',
+      link: 'https://animeshouse.net',
     },
     {
       id: '4',
