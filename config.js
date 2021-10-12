@@ -52,27 +52,27 @@ const CONFIG = {
     },
     {
       id: '3',
-      name: 'Animes',
-      icon: 'play',
-      link: 'https://animeshouse.net',
-    },
-    {
-      id: '4',
-      name: 'Calendar',
-      icon: 'calendar',
-      link: 'https://calendar.google.com/calendar/r',
-    },
-    {
-      id: '5',
       name: 'Reddit',
-      icon: 'bookmark',
+      icon: 'table_chart',
       link: 'https://reddit.com',
     },
     {
+      id: '4',
+      name: 'Animes',
+      icon: 'movie',
+      link: 'https://animeshouse.net',
+    },
+    {
+      id: '5',
+      name: 'Manga',
+      icon: 'table_chart',
+      link: 'https://mangalivre.net',
+    },
+    {
       id: '6',
-      name: 'Odysee',
-      icon: 'youtube',
-      link: 'https://odysee.com/',
+      name: 'Mercado Livre',
+      icon: 'local_shipping',
+      link: 'https://mercadolivre.com/',
     },
   ],
 
