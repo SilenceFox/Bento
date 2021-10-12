@@ -65,13 +65,13 @@ const CONFIG = {
     {
       id: '5',
       name: 'Manga',
-      icon: 'read',
+      icon: 'book-open',
       link: 'https://mangalivre.net',
     },
     {
       id: '6',
       name: 'Mercado Livre',
-      icon: 'ecommerce',
+      icon: 'shopping-bag',
       link: 'https://mercadolivre.com/',
     },
   ],
