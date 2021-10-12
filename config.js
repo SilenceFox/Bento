@@ -88,20 +88,20 @@ const CONFIG = {
   lists: {
     firstList: [
       {
-        name: 'Inspirational',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Gaucho',
+        link: 'https://www.youtube.com/watch?v=EtTbS-KdcrE',
       },
       {
-        name: 'Classic',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Mimir :3',
+        link: 'https://www.youtube.com/watch?v=q-GMkHwaKuQ&list=PLSNh_SUIqq68CHJSHqEngCJUmqy4Im1OR&index=1&',
       },
       {
-        name: 'Oldies',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Dancing With The Dead 0_0',
+        link: 'https://open.spotify.com/track/11DjaJRDstJpTC0VfuFDlz?si=ebf5d46b1d4b4bcd',
       },
       {
         name: 'Rock',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        link: 'https://open.spotify.com/user/12172137722?si=c0b6721f3f7b4b62',
       },
     ],
     secondList: [
@@ -110,12 +110,12 @@ const CONFIG = {
         link: 'https://linkedin.com/',
       },
       {
-        name: 'Figma',
-        link: 'https://figma.com/',
+        name: 'Whatsapp',
+        link: 'https://web.whatsapp.com',
       },
       {
-        name: 'Dribbble',
-        link: 'https://dribbble.com',
+        name: 'IGG-Games',
+        link: 'https://igg-games.com',
       },
       {
         name: 'Telegram',
