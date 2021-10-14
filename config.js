@@ -101,7 +101,7 @@ const CONFIG = {
       },
       {
         name: 'Rock',
-        link: 'https://open.spotify.com/user/12172137722?si=c0b6721f3f7b4b62',
+        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
       },
     ],
     secondList: [
