@@ -24,7 +24,7 @@ const CONFIG = {
 
   // Weather
   weatherKey: '2032b8ae2be3384073c76152ca8ec8bd',
-  weatherIcons: 'Nord', // 'Onedark', 'Dark', 'White'
+  weatherIcons: 'Onedark', // 'Onedark', 'Dark', 'White'
   weatherUnit: 'C', // 'F', 'C'
   language: 'pt_br', // More languages in https://openweathermap.org/current#multi
 
@@ -48,7 +48,7 @@ const CONFIG = {
       id: '2',
       name: 'Mail',
       icon: 'mail',
-      link: 'https://google.mail.com/',
+      link: 'https://mail.google.com/',
     },
     {
       id: '3',
@@ -58,15 +58,15 @@ const CONFIG = {
     },
     {
       id: '4',
-      name: 'Animes',
-      icon: 'film',
-      link: 'https://animeshouse.net',
+      name: 'Notion',
+      icon: 'edit',
+      link: 'https://notion.so',
     },
     {
       id: '5',
       name: 'Manga',
       icon: 'book-open',
-      link: 'https://mangalivre.net',
+      link: 'https://mangaeffect.com',
     },
     {
       id: '6',
