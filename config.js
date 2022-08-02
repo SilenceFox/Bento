@@ -13,7 +13,7 @@ const CONFIG = {
   // General
   name: 'Doot',
   imageBackground: false,
-  openInNewTab: true,
+  openInNewTab: false,
   twelveHourFormat: false,
 
   // Greetings
@@ -29,8 +29,8 @@ const CONFIG = {
   language: 'pt_br', // More languages in https://openweathermap.org/current#multi
 
   trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
-  defaultLatitude: '29.996320',
-  defaultLongitude: '-51.058500',
+  defaultLatitude: '-12.48',
+  defaultLongitude: '-49.12472',
 
   // ┌─┐┌─┐┬─┐┌┬┐┌─┐
   // │  ├─┤├┬┘ ││└─┐
